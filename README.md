@@ -4,7 +4,7 @@ Excute this command will enable below convenient shell commands in your terminal
 
 ## Commands
 
-- `pak`: `$ pak ${packageName}`, open detail npm package website in your default browser, .e.g `$ pak react`
+- `pkg`: `$ pkg ${packageName}`, open detail npm package website in your default browser, .e.g `$ pkg react`
 
 # Notice
 
