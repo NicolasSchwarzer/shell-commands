@@ -4,7 +4,8 @@ Excute this command will enable below convenient shell commands in your terminal
 
 ## Commands
 
-- `pkg`: `$ pkg ${packageName}`, open detail npm package website in your default browser, .e.g `$ pkg react`
+- `pkg`: `$ pkg ${packageName}`, open detail npm package website in your default browser, e.g. `$ pkg react`
+- `dpkg`: `$ dpkg ${packageName}`, open detail dxy npm package website in your default browser, e.g. `$ dpkg @dxy/dxy-analytics`
 
 # Notice
 
