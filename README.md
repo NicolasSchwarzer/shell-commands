@@ -9,6 +9,7 @@ If you want to clear commands already linked, please excute this command: `$ ./c
 - `pkg`: `$ pkg ${packageName}`, open detail npm package website in your default browser, e.g. `$ pkg react`
 - `cpkg`: `$ cpkg ${packageName}`, open detail taobao npm package website in your default browser, e.g. `$ cpkg react`
 - `dpkg`: `$ dpkg ${packageName}`, open detail dxy npm package website in your default browser, e.g. `$ dpkg @dxy/dxy-analytics`
+- `eslint-doc`: `$ eslint-doc ${ruleName}`, open eslint rule doc website in your default browser, e.g. `$ eslint-doc operator-linebreak`
 
 # Notice
 
