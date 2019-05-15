@@ -11,6 +11,7 @@ If you want to clear commands already linked, please excute this command: `$ ./c
 - `dpkg`: `$ dpkg ${packageName}`, open detail dxy npm package website in your default browser, e.g. `$ dpkg @dxy/dxy-analytics`
 - `eslint-doc`: `$ eslint-doc ${ruleName}`, open eslint rule doc website in your default browser, e.g. `$ eslint-doc operator-linebreak`
 - `tslint-doc`: `$ tslint-doc ${ruleName}`, open tslint rule doc website in your default browser, e.g. `$ tslint-doc no-parameter-reassignment`
+- `dimg`: `$ dimg ${dockerImageName}`, open docker hub images' search result website in your default browser, e.g. `$ dimg node`
 
 # Notice
 
