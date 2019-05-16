@@ -7,5 +7,6 @@ ln -s $dir/bin/dnpm-package.sh /usr/local/bin/dpkg
 ln -s $dir/bin/eslint-doc.sh /usr/local/bin/eslint-doc
 ln -s $dir/bin/tslint-doc.sh /usr/local/bin/tslint-doc
 ln -s $dir/bin/docker-image.sh /usr/local/bin/dimg
+ln -s $dir/bin/github-search.sh /usr/local/bin/github
 
 echo "shell commands linked"
