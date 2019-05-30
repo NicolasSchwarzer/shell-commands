@@ -13,6 +13,7 @@ If you want to clear commands already linked, please excute this command: `$ ./c
 - `tslint-doc`: `$ tslint-doc ${ruleName}`, open tslint rule doc website in your default browser, e.g. `$ tslint-doc no-parameter-reassignment`
 - `dimg`: `$ dimg ${dockerImageName}`, open docker hub images' search result website in your default browser, e.g. `$ dimg node`
 - `github`: `$ github ${repoName}`, open repository search result website in your default browser, e.g. `$github node`
+- `stylelint-doc`: `$ stylelint-doc ${ruleName}`, open stylelint rule doc website in your default browser, e.g. `$ stylelint-doc selector-pseudo-class-no-unknown`
 
 # Notice
 
